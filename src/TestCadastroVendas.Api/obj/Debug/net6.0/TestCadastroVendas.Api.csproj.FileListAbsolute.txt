@@ -95,3 +95,16 @@ C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\obj\Debug\ne
 C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\obj\Debug\net6.0\TestCadastroVendas.Api.pdb
 C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\obj\Debug\net6.0\TestCadastroVendas.Api.genruntimeconfig.cache
 C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\obj\Debug\net6.0\ref\TestCadastroVendas.Api.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\bin\Debug\net6.0\Serilog.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

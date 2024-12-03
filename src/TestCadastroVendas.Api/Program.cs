@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-
+using Serilog;
 using TestCadastroVendas.Api;
 using TestCadastroVendas.Api.Infra.Configurations;
 using TestCadastroVendas.Domain.Repositories.Sql;
@@ -8,6 +8,14 @@ using TestCadastroVendas.Infra.Persistence.Sql.Contexts;
 using TestCadastroVendas.Infra.Persistence.Sql.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
+
+Log.Logger = new LoggerConfiguration()
+    .ReadFrom.Configuration(builder.Configuration) 
+    .WriteTo.Console() 
+    .CreateLogger();
+
+builder.Logging.ClearProviders(); 
+builder.Logging.AddSerilog(); 
 
 builder.ConfigureServices();
 

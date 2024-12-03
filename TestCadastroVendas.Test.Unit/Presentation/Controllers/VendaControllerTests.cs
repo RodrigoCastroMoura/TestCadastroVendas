@@ -2,7 +2,10 @@
 using Bogus;
 using FluentAssertions;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Moq;
+
 using NSubstitute;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -26,14 +29,16 @@ public class VendaControllerTests
     private readonly Faker _faker;
     private List<Venda> vendas;
     private Venda venda;
-
     public VendaControllerTests()
     {
         vendaRepository = Substitute.For<IRepository<Venda>>();
         itemVendaRepository = Substitute.For<IRepository<ItemVenda>>();
         var config = new MapperConfiguration(cfg => cfg.AddProfile(new VendasProfile()));
         mapper = config.CreateMapper();
-        _controller = new VendaController(vendaRepository,itemVendaRepository,mapper);
+
+        var logger = new Mock<ILogger<VendaController>>();
+
+        _controller = new VendaController(vendaRepository,itemVendaRepository,mapper,logger.Object);
         _faker = new Faker();  // Usando Bogus para gerar dados falsos
         venda = new Venda
         {

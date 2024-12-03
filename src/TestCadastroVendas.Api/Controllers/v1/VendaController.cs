@@ -18,17 +18,21 @@ public class VendaController :  ControllerBase
 {
     private readonly IRepository<Venda> vendaRepository;
     private readonly IRepository<ItemVenda> itemVendaRepository;
+    private readonly ILogger<VendaController> logger;
+
 
     private readonly IMapper mapper;
     private VendaCreateValidation vendaValidation;
 
     public VendaController(IRepository<Venda> vendaRepository,
                     IRepository<ItemVenda> itemVendaRepository,    
-                    IMapper mapper)
+                    IMapper mapper,
+                    ILogger<VendaController> logger)
     {
         this.vendaRepository = vendaRepository;
         this.itemVendaRepository = itemVendaRepository;
         this.mapper = mapper;
+        this.logger = logger;
         vendaValidation = new VendaCreateValidation();
     }
 
@@ -103,6 +107,8 @@ public class VendaController :  ControllerBase
                 response.Message = ex.Message;
             }
 
+            logger.LogInformation($"Venda realizada com sucesso.");
+
             return response;
         }
         else
@@ -153,7 +159,7 @@ public class VendaController :  ControllerBase
         {
             response.Success = false;
             response.Message = ex.Message;
-
+            logger.LogError(ex.Message);
             return response;
         }
     }
@@ -203,7 +209,7 @@ public class VendaController :  ControllerBase
         {
             response.Success = false;
             response.Message = ex.Message;
-
+            logger.LogError(ex.Message);
             return response;
         }
     }
@@ -278,6 +284,8 @@ public class VendaController :  ControllerBase
                 response.Data = mapper.Map<VendaDto>(venda);
                 response.Data.Produtos = mapper.Map<List<ItemVendaDto>>(produtos);
 
+
+                logger.LogInformation($"Venda atualizada com sucesso.");
                 return response;
 
 
@@ -286,6 +294,7 @@ public class VendaController :  ControllerBase
             {
                 response.Success = false;
                 response.Message = ex.Message;
+                logger.LogError(ex.Message);
             }
 
             return CreatedAtAction(nameof(GetById), new { id = response.Data.NumeroVenda }, response.Data);
@@ -322,7 +331,7 @@ public class VendaController :  ControllerBase
         {
             response.Success = false;
             response.Message = ex.Message;
-
+            logger.LogError(ex.Message);
             return BadRequest(response);
         }
 
