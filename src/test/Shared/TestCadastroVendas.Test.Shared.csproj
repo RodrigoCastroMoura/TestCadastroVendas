@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <IsPackable>false</IsPackable>
+    <ImplicitUsings>true</ImplicitUsings>
+    <Configurations>Debug;Release;Swashbuckle</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\TestCadastroVendas.CrossCutting\TestCadastroVendas.CrossCutting.csproj" />
+    <ProjectReference Include="..\..\src\TestCadastroVendas.Dto\TestCadastroVendas.Dto.csproj" />
+  </ItemGroup>
+
+</Project>

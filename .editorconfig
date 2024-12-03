@@ -1,0 +1,50 @@
+###############################
+# Core EditorConfig Options   #
+###############################
+
+root = true
+
+# All files
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+tab_width = 2
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Visual Studio Solution Files
+[*.sln]
+indent_style = tab
+
+# .Net Code files
+[*.{cs,csx,vb,vbx}]
+charset = utf-8-bom
+indent_size = 4
+tab_width = 4
+# IDE0063: Use simple 'using' statement
+csharp_prefer_simple_using_statement = false
+
+# Markdown Files
+[*.{md,mdx}]
+charset = utf-8-bom
+indent_size = 2
+tab_width = 2
+trim_trailing_spaces = false
+max_line_length = 80
+
+# .Config files
+[*.{config}]
+charset = utf-8-bom
+
+# Batch Files
+[*.{cmd,bat}]
+end_of_line = crlf
+
+# Bash Files
+[*.sh]
+end_of_line = lf
+
+# Makefiles
+[Makefile]
+indent_style = tab

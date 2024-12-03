@@ -1,0 +1,17 @@
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\bin\Debug\net6.0\BlogSimples.Test.Shared.deps.json
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\bin\Debug\net6.0\BlogSimples.Test.Shared.dll
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\bin\Debug\net6.0\BlogSimples.Test.Shared.pdb
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\bin\Debug\net6.0\BlogSimples.CrossCutting.dll
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\bin\Debug\net6.0\BlogSimples.Dto.dll
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\bin\Debug\net6.0\BlogSimples.CrossCutting.pdb
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\bin\Debug\net6.0\BlogSimples.Dto.pdb
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\obj\Debug\net6.0\BlogSimples.Test.Shared.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\obj\Debug\net6.0\BlogSimples.Test.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\obj\Debug\net6.0\BlogSimples.Test.Shared.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\obj\Debug\net6.0\BlogSimples.Test.Shared.AssemblyInfo.cs
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\obj\Debug\net6.0\BlogSimples.Test.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\obj\Debug\net6.0\BlogSimples.Test.Shared.csproj.CopyComplete
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\obj\Debug\net6.0\BlogSimples.Test.Shared.dll
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\obj\Debug\net6.0\refint\BlogSimples.Test.Shared.dll
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\obj\Debug\net6.0\BlogSimples.Test.Shared.pdb
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Shared\obj\Debug\net6.0\ref\BlogSimples.Test.Shared.dll

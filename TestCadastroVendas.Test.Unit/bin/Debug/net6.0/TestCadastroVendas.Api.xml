@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestCadastroVendas.Api</name>
+    </assembly>
+    <members>
+        <member name="M:TestCadastroVendas.Api.Controllers.v1.VendaController.Create(TestCadastroVendas.Domain.Dto.VendaCreateDto)">
+             <summary>
+             Criar Cadastro.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST/Venda
+                 {
+                   "dataVenda": "2024-12-01T10:30:00",  // Data e hora da venda (exemplo: "2024-12-01T10:30:00")
+                   "cliente": "João da Silva",  // Nome do cliente (exemplo: "João da Silva")
+                   "valorTotalVenda": 500.00,   // Valor total da venda (exemplo: 500.00)
+                   "filial": "Filial A",        // Filial em que a venda foi realizada (exemplo: "Filial A")
+                   "cancelado": false,          // Indica se a venda foi cancelada (exemplo: false)
+                   "produtos": [                // Lista de produtos comprados
+                      {
+                          "produto": "Produto A",    // Nome do produto (exemplo: "Produto A")
+                          "quantidade": 5,           // Quantidade do produto (exemplo: 5)
+                          "valorUnitario": 100.00,   // Valor unitário do produto (exemplo: 100.00)
+                          "desconto": 50.00,         // Desconto aplicado no produto (exemplo: 50.00)
+                          "valorTotalItem": 450.00   // Valor total do item com desconto (exemplo: 450.00)
+                      },
+                      {
+                          "produto": "Produto B",    // Nome do produto (exemplo: "Produto B")
+                          "quantidade": 3,           // Quantidade do produto (exemplo: 3)
+                          "valorUnitario": 20.00,    // Valor unitário do produto (exemplo: 20.00)
+                          "desconto": 0.00,          // Desconto aplicado no produto (exemplo: 0.00)
+                          "valorTotalItem": 60.00    // Valor total do item (exemplo: 60.00)
+                      }
+                  ]
+                 }
+            
+             </remarks>
+             <param name="vendaCreateDto"></param>
+             <returns>A newly created TestCadastroVendas</returns>
+             <response code="201">Returns the newly created testCadastroVendas</response>
+        </member>
+        <member name="M:TestCadastroVendas.Api.Controllers.v1.VendaController.GetById(System.Int32)">
+             <summary>
+             Listar Venda por ID
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 Get/Venda/102030
+            
+             </remarks>
+             <param name="id"></param>
+             <returns>returns a testCadastroVendas</returns>
+             <response code="200">Returns a testCadastroVendas </response>
+             <response code="422">If testCadastroVendas not found </response>  
+        </member>
+        <member name="M:TestCadastroVendas.Api.Controllers.v1.VendaController.GetAll">
+             <summary>
+             Listar todos os Vendas
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 Get/Venda
+            
+             </remarks>
+             Listar todos os Vendas
+             <returns>returns testCadastroVendass</returns>
+             <response code="200">Returns Vendas </response> 
+        </member>
+        <member name="M:TestCadastroVendas.Api.Controllers.v1.VendaController.Update(TestCadastroVendas.Domain.Dto.VendaUpdateDto)">
+             <summary>
+             Alterar Cadastro.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 Put/Venda
+                 {
+                   "numeroVenda": 12345,        // Número único da venda (exemplo: 12345)
+                   "dataVenda": "2024-12-01T10:30:00",  // Data e hora da venda (exemplo: "2024-12-01T10:30:00")
+                   "cliente": "João da Silva",  // Nome do cliente (exemplo: "João da Silva")
+                   "valorTotalVenda": 500.00,   // Valor total da venda (exemplo: 500.00)
+                   "filial": "Filial A",        // Filial em que a venda foi realizada (exemplo: "Filial A")
+                   "cancelado": false,          // Indica se a venda foi cancelada (exemplo: false)
+                   "produtos": [                // Lista de produtos comprados
+                      {
+                          "produto": "Produto A",    // Nome do produto (exemplo: "Produto A")
+                          "quantidade": 5,           // Quantidade do produto (exemplo: 5)
+                          "valorUnitario": 100.00,   // Valor unitário do produto (exemplo: 100.00)
+                          "desconto": 50.00,         // Desconto aplicado no produto (exemplo: 50.00)
+                          "valorTotalItem": 450.00   // Valor total do item com desconto (exemplo: 450.00)
+                      },
+                      {
+                          "produto": "Produto B",    // Nome do produto (exemplo: "Produto B")
+                          "quantidade": 3,           // Quantidade do produto (exemplo: 3)
+                          "valorUnitario": 20.00,    // Valor unitário do produto (exemplo: 20.00)
+                          "desconto": 0.00,          // Desconto aplicado no produto (exemplo: 0.00)
+                          "valorTotalItem": 60.00    // Valor total do item (exemplo: 60.00)
+                      }
+                  ]
+                 }
+                 }
+            
+             </remarks>
+             <param name="vendaUpdateDto"></param>
+             <returns>A newly created TestCadastroVendas</returns>
+             <response code="201">Returns the newly created testCadastroVendas</response>
+        </member>
+        <member name="M:TestCadastroVendas.Api.Controllers.v1.VendaController.Delete(System.Int32)">
+            <summary>
+            Deletar Cadastro.
+            </summary>
+            <remarks>
+                Delete/Venda/102030
+            </remarks>
+            <returns>A newly created TestCadastroVendas</returns>
+            <response code="201">Returns the newly created testCadastroVendas</response>
+        </member>
+    </members>
+</doc>

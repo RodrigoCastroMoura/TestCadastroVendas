@@ -1,0 +1,12 @@
+C:\Teste-Blog-Simples\GbiTestCadastro\src\GbiTestCadastro.Dto\obj\Debug\net6.0\GbiTestCadastro.Dto.csproj.AssemblyReference.cache
+C:\Teste-Blog-Simples\GbiTestCadastro\src\GbiTestCadastro.Dto\obj\Debug\net6.0\GbiTestCadastro.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste-Blog-Simples\GbiTestCadastro\src\GbiTestCadastro.Dto\obj\Debug\net6.0\GbiTestCadastro.Dto.AssemblyInfoInputs.cache
+C:\Teste-Blog-Simples\GbiTestCadastro\src\GbiTestCadastro.Dto\obj\Debug\net6.0\GbiTestCadastro.Dto.AssemblyInfo.cs
+C:\Teste-Blog-Simples\GbiTestCadastro\src\GbiTestCadastro.Dto\obj\Debug\net6.0\GbiTestCadastro.Dto.csproj.CoreCompileInputs.cache
+C:\Teste-Blog-Simples\GbiTestCadastro\src\GbiTestCadastro.Dto\bin\Debug\net6.0\GbiTestCadastro.Dto.deps.json
+C:\Teste-Blog-Simples\GbiTestCadastro\src\GbiTestCadastro.Dto\bin\Debug\net6.0\GbiTestCadastro.Dto.dll
+C:\Teste-Blog-Simples\GbiTestCadastro\src\GbiTestCadastro.Dto\bin\Debug\net6.0\GbiTestCadastro.Dto.pdb
+C:\Teste-Blog-Simples\GbiTestCadastro\src\GbiTestCadastro.Dto\obj\Debug\net6.0\GbiTestCadastro.Dto.dll
+C:\Teste-Blog-Simples\GbiTestCadastro\src\GbiTestCadastro.Dto\obj\Debug\net6.0\refint\GbiTestCadastro.Dto.dll
+C:\Teste-Blog-Simples\GbiTestCadastro\src\GbiTestCadastro.Dto\obj\Debug\net6.0\GbiTestCadastro.Dto.pdb
+C:\Teste-Blog-Simples\GbiTestCadastro\src\GbiTestCadastro.Dto\obj\Debug\net6.0\ref\GbiTestCadastro.Dto.dll

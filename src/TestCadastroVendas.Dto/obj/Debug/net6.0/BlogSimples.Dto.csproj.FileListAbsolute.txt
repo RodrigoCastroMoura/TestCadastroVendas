@@ -1,0 +1,15 @@
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\bin\Debug\net6.0\BlogSimples.Dto.deps.json
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\bin\Debug\net6.0\BlogSimples.Dto.dll
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\bin\Debug\net6.0\BlogSimples.Dto.pdb
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\bin\Debug\net6.0\BlogSimples.CrossCutting.dll
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\bin\Debug\net6.0\BlogSimples.CrossCutting.pdb
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\obj\Debug\net6.0\BlogSimples.Dto.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\obj\Debug\net6.0\BlogSimples.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\obj\Debug\net6.0\BlogSimples.Dto.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\obj\Debug\net6.0\BlogSimples.Dto.AssemblyInfo.cs
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\obj\Debug\net6.0\BlogSimples.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\obj\Debug\net6.0\BlogSimples.Dto.csproj.CopyComplete
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\obj\Debug\net6.0\BlogSimples.Dto.dll
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\obj\Debug\net6.0\refint\BlogSimples.Dto.dll
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\obj\Debug\net6.0\BlogSimples.Dto.pdb
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Dto\obj\Debug\net6.0\ref\BlogSimples.Dto.dll

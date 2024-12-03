@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GbiTestCadastro.Api</name>
+    </assembly>
+    <members>
+        <member name="M:GbiTestCadastro.Api.Controllers.v1.UsuarioController.Create(GbiTestCadastro.Dto.Usuarios.UsuarioCreateDto)">
+             <summary>
+             Criar Cadastro.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST/Usuario
+                 {
+                    "nome": "Nome do usuario",
+                    "email":"Email do usuario",
+                    "username":"Username do usuario",
+                    "senha": "Senha do Usuario"
+                 }
+            
+             </remarks>
+             <param name="usuarioCreateDto"></param>
+             <returns>A newly created GbiTestCadastro</returns>
+             <response code="201">Returns the newly created boilerplate</response>
+        </member>
+        <member name="M:GbiTestCadastro.Api.Controllers.v1.UsuarioController.GetById(System.Int32)">
+             <summary>
+             Listar Usuario por ID
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 Get/Usuario/102030
+            
+             </remarks>
+             <param name="id"></param>
+             <returns>returns a boilerplate</returns>
+             <response code="200">Returns a boilerplate </response>
+             <response code="422">If boilerplate not found </response>  
+        </member>
+        <member name="M:GbiTestCadastro.Api.Controllers.v1.UsuarioController.GetAll">
+             <summary>
+             Listar todos os Usuarios
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 Get/Usuario
+            
+             </remarks>
+             Listar todos os Usuarios
+             <returns>returns boilerplates</returns>
+             <response code="200">Returns Usuarios </response> 
+        </member>
+        <member name="M:GbiTestCadastro.Api.Controllers.v1.UsuarioController.Update(GbiTestCadastro.Dto.Usuarios.UsuarioUpdateDto)">
+             <summary>
+             Alterar Cadastro.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 Put/Usuario
+                 {
+                    "id": "Nome do usuario",
+                    "nome": "Nome do usuario",
+                    "email":"Email do usuario",
+                    "username":"Username do usuario",
+                    "senha": "Senha do Usuario"
+                 }
+            
+             </remarks>
+             <param name="usuarioUpdateDto"></param>
+             <returns>A newly created GbiTestCadastro</returns>
+             <response code="201">Returns the newly created boilerplate</response>
+        </member>
+        <member name="M:GbiTestCadastro.Api.Controllers.v1.UsuarioController.Delete(System.Int32)">
+            <summary>
+            Deletar Cadastro.
+            </summary>
+            <remarks>
+                Delete/Usuario/102030
+            </remarks>
+            <param name="usuarioUpdateDto"></param>
+            <returns>A newly created GbiTestCadastro</returns>
+            <response code="201">Returns the newly created boilerplate</response>
+        </member>
+    </members>
+</doc>

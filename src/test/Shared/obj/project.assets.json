@@ -1,0 +1,148 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FluentValidation/11.5.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {}
+        }
+      },
+      "BlogSimples.CrossCutting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FluentValidation": "11.5.2"
+        },
+        "compile": {
+          "bin/placeholder/BlogSimples.CrossCutting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogSimples.CrossCutting.dll": {}
+        }
+      },
+      "BlogSimples.Dto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BlogSimples.CrossCutting": "1.0.0",
+          "FluentValidation": "11.5.2"
+        },
+        "compile": {
+          "bin/placeholder/BlogSimples.Dto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogSimples.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentValidation/11.5.2": {
+      "sha512": "kj/hW/iusp2zq1Vt1YPLgDj6UG0DhoJXGkLwjLwm3j7vUtRF8DVA5vHJfItG3BxDjLWJUR2pvw8fK7rnuysZNA==",
+      "type": "package",
+      "path": "fluentvalidation/11.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.5.2.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "BlogSimples.CrossCutting/1.0.0": {
+      "type": "project",
+      "path": "../../src/BlogSimples.CrossCutting/BlogSimples.CrossCutting.csproj",
+      "msbuildProject": "../../src/BlogSimples.CrossCutting/BlogSimples.CrossCutting.csproj"
+    },
+    "BlogSimples.Dto/1.0.0": {
+      "type": "project",
+      "path": "../../src/BlogSimples.Dto/BlogSimples.Dto.csproj",
+      "msbuildProject": "../../src/BlogSimples.Dto/BlogSimples.Dto.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BlogSimples.CrossCutting >= 1.0.0",
+      "BlogSimples.Dto >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\test\\Shared\\BlogSimples.Test.Shared.csproj",
+      "projectName": "BlogSimples.Test.Shared",
+      "projectPath": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\test\\Shared\\BlogSimples.Test.Shared.csproj",
+      "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\test\\Shared\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\NuGet.Config",
+        "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.CrossCutting\\BlogSimples.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.CrossCutting\\BlogSimples.CrossCutting.csproj"
+            },
+            "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.Dto\\BlogSimples.Dto.csproj": {
+              "projectPath": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.Dto\\BlogSimples.Dto.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

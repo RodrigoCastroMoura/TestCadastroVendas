@@ -1,0 +1,12 @@
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Domain\obj\Debug\net6.0\BlogSimples.Domain.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Domain\obj\Debug\net6.0\BlogSimples.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Domain\obj\Debug\net6.0\BlogSimples.Domain.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Domain\obj\Debug\net6.0\BlogSimples.Domain.AssemblyInfo.cs
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Domain\obj\Debug\net6.0\BlogSimples.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Domain\bin\Debug\net6.0\BlogSimples.Domain.deps.json
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Domain\bin\Debug\net6.0\BlogSimples.Domain.dll
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Domain\bin\Debug\net6.0\BlogSimples.Domain.pdb
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Domain\obj\Debug\net6.0\BlogSimples.Domain.dll
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Domain\obj\Debug\net6.0\refint\BlogSimples.Domain.dll
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Domain\obj\Debug\net6.0\BlogSimples.Domain.pdb
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Domain\obj\Debug\net6.0\ref\BlogSimples.Domain.dll

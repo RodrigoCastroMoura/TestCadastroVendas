@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DH9LthAIjP0MqhuMi8vaqCxkwQWNaAVqtaVKMYZ4ewJcOWnO1T+77uSTQk7lqQKy3TCIkKHcDMo2PcSde5MDqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\test\\Shared\\BlogSimples.Test.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

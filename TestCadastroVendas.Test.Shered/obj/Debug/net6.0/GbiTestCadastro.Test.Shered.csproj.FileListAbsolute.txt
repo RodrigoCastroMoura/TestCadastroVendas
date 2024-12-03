@@ -1,0 +1,12 @@
+C:\Teste-Blog-Simples\GbiTestCadastro\GbiTestCadastro.Test.Shered\bin\Debug\net6.0\GbiTestCadastro.Test.Shered.deps.json
+C:\Teste-Blog-Simples\GbiTestCadastro\GbiTestCadastro.Test.Shered\bin\Debug\net6.0\GbiTestCadastro.Test.Shered.dll
+C:\Teste-Blog-Simples\GbiTestCadastro\GbiTestCadastro.Test.Shered\bin\Debug\net6.0\GbiTestCadastro.Test.Shered.pdb
+C:\Teste-Blog-Simples\GbiTestCadastro\GbiTestCadastro.Test.Shered\obj\Debug\net6.0\GbiTestCadastro.Test.Shered.csproj.AssemblyReference.cache
+C:\Teste-Blog-Simples\GbiTestCadastro\GbiTestCadastro.Test.Shered\obj\Debug\net6.0\GbiTestCadastro.Test.Shered.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste-Blog-Simples\GbiTestCadastro\GbiTestCadastro.Test.Shered\obj\Debug\net6.0\GbiTestCadastro.Test.Shered.AssemblyInfoInputs.cache
+C:\Teste-Blog-Simples\GbiTestCadastro\GbiTestCadastro.Test.Shered\obj\Debug\net6.0\GbiTestCadastro.Test.Shered.AssemblyInfo.cs
+C:\Teste-Blog-Simples\GbiTestCadastro\GbiTestCadastro.Test.Shered\obj\Debug\net6.0\GbiTestCadastro.Test.Shered.csproj.CoreCompileInputs.cache
+C:\Teste-Blog-Simples\GbiTestCadastro\GbiTestCadastro.Test.Shered\obj\Debug\net6.0\GbiTestCadastro.Test.Shered.dll
+C:\Teste-Blog-Simples\GbiTestCadastro\GbiTestCadastro.Test.Shered\obj\Debug\net6.0\refint\GbiTestCadastro.Test.Shered.dll
+C:\Teste-Blog-Simples\GbiTestCadastro\GbiTestCadastro.Test.Shered\obj\Debug\net6.0\GbiTestCadastro.Test.Shered.pdb
+C:\Teste-Blog-Simples\GbiTestCadastro\GbiTestCadastro.Test.Shered\obj\Debug\net6.0\ref\GbiTestCadastro.Test.Shered.dll

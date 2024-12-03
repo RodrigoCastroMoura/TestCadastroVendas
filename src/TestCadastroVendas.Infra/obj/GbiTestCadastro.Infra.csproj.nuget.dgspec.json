@@ -1,0 +1,269 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Infra\\GbiTestCadastro.Infra.csproj": {}
+  },
+  "projects": {
+    "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Application\\GbiTestCadastro.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Application\\GbiTestCadastro.Application.csproj",
+        "projectName": "GbiTestCadastro.Application",
+        "projectPath": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Application\\GbiTestCadastro.Application.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Teste-Blog-Simples\\GbiTestCadastro\\NuGet.Config",
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Domain\\GbiTestCadastro.Domain.csproj": {
+                "projectPath": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Domain\\GbiTestCadastro.Domain.csproj"
+              },
+              "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Dto\\GbiTestCadastro.Dto.csproj": {
+                "projectPath": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Dto\\GbiTestCadastro.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Domain\\GbiTestCadastro.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Domain\\GbiTestCadastro.Domain.csproj",
+        "projectName": "GbiTestCadastro.Domain",
+        "projectPath": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Domain\\GbiTestCadastro.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Teste-Blog-Simples\\GbiTestCadastro\\NuGet.Config",
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Dto\\GbiTestCadastro.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Dto\\GbiTestCadastro.Dto.csproj",
+        "projectName": "GbiTestCadastro.Dto",
+        "projectPath": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Dto\\GbiTestCadastro.Dto.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Teste-Blog-Simples\\GbiTestCadastro\\NuGet.Config",
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Infra\\GbiTestCadastro.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Infra\\GbiTestCadastro.Infra.csproj",
+        "projectName": "GbiTestCadastro.Infra",
+        "projectPath": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Infra\\GbiTestCadastro.Infra.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Teste-Blog-Simples\\GbiTestCadastro\\NuGet.Config",
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Application\\GbiTestCadastro.Application.csproj": {
+                "projectPath": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Application\\GbiTestCadastro.Application.csproj"
+              },
+              "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Domain\\GbiTestCadastro.Domain.csproj": {
+                "projectPath": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Domain\\GbiTestCadastro.Domain.csproj"
+              },
+              "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Dto\\GbiTestCadastro.Dto.csproj": {
+                "projectPath": "C:\\Teste-Blog-Simples\\GbiTestCadastro\\src\\GbiTestCadastro.Dto\\GbiTestCadastro.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

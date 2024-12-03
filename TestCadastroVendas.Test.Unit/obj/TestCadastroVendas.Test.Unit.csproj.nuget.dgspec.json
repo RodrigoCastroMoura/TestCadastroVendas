@@ -1,0 +1,356 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Teste-Blog-Simples\\TestCadastroVendas\\TestCadastroVendas.Test.Unit\\TestCadastroVendas.Test.Unit.csproj": {}
+  },
+  "projects": {
+    "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Api\\TestCadastroVendas.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Api\\TestCadastroVendas.Api.csproj",
+        "projectName": "TestCadastroVendas.Api",
+        "projectPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Api\\TestCadastroVendas.Api.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Teste-Blog-Simples\\TestCadastroVendas\\NuGet.Config",
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Domain\\TestCadastroVendas.Domain.csproj": {
+                "projectPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Domain\\TestCadastroVendas.Domain.csproj"
+              },
+              "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Infra\\TestCadastroVendas.Infra.csproj": {
+                "projectPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Infra\\TestCadastroVendas.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.AzureServiceBus": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "AspNetCore.HealthChecks.MongoDb": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Domain\\TestCadastroVendas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Domain\\TestCadastroVendas.Domain.csproj",
+        "projectName": "TestCadastroVendas.Domain",
+        "projectPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Domain\\TestCadastroVendas.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Teste-Blog-Simples\\TestCadastroVendas\\NuGet.Config",
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Infra\\TestCadastroVendas.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Infra\\TestCadastroVendas.Infra.csproj",
+        "projectName": "TestCadastroVendas.Infra",
+        "projectPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Infra\\TestCadastroVendas.Infra.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Teste-Blog-Simples\\TestCadastroVendas\\NuGet.Config",
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Domain\\TestCadastroVendas.Domain.csproj": {
+                "projectPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Domain\\TestCadastroVendas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Teste-Blog-Simples\\TestCadastroVendas\\TestCadastroVendas.Test.Unit\\TestCadastroVendas.Test.Unit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\TestCadastroVendas.Test.Unit\\TestCadastroVendas.Test.Unit.csproj",
+        "projectName": "TestCadastroVendas.Test.Unit",
+        "projectPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\TestCadastroVendas.Test.Unit\\TestCadastroVendas.Test.Unit.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\TestCadastroVendas.Test.Unit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Teste-Blog-Simples\\TestCadastroVendas\\NuGet.Config",
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Api\\TestCadastroVendas.Api.csproj": {
+                "projectPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Api\\TestCadastroVendas.Api.csproj"
+              },
+              "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Domain\\TestCadastroVendas.Domain.csproj": {
+                "projectPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Domain\\TestCadastroVendas.Domain.csproj"
+              },
+              "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Infra\\TestCadastroVendas.Infra.csproj": {
+                "projectPath": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Infra\\TestCadastroVendas.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.1, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

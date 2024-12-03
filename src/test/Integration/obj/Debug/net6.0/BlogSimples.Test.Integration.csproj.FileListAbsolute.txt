@@ -1,0 +1,7 @@
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Integration\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Integration\obj\Debug\net6.0\BlogSimples.Test.Integration.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Integration\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Integration\obj\Debug\net6.0\BlogSimples.Test.Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Integration\obj\Debug\net6.0\BlogSimples.Test.Integration.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Integration\obj\Debug\net6.0\BlogSimples.Test.Integration.AssemblyInfo.cs
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Integration\obj\Debug\net6.0\BlogSimples.Test.Integration.csproj.CoreCompileInputs.cache

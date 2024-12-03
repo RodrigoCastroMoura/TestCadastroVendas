@@ -1,0 +1,15 @@
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\bin\Debug\net6.0\TestCadastroVendas.Infra.deps.json
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\bin\Debug\net6.0\TestCadastroVendas.Infra.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\bin\Debug\net6.0\TestCadastroVendas.Infra.pdb
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\bin\Debug\net6.0\TestCadastroVendas.Domain.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\bin\Debug\net6.0\TestCadastroVendas.Domain.pdb
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\obj\Debug\net6.0\TestCadastroVendas.Infra.csproj.AssemblyReference.cache
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\obj\Debug\net6.0\TestCadastroVendas.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\obj\Debug\net6.0\TestCadastroVendas.Infra.AssemblyInfoInputs.cache
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\obj\Debug\net6.0\TestCadastroVendas.Infra.AssemblyInfo.cs
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\obj\Debug\net6.0\TestCadastroVendas.Infra.csproj.CoreCompileInputs.cache
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\obj\Debug\net6.0\TestCadastroVendas.Infra.csproj.CopyComplete
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\obj\Debug\net6.0\TestCadastroVendas.Infra.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\obj\Debug\net6.0\refint\TestCadastroVendas.Infra.dll
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\obj\Debug\net6.0\TestCadastroVendas.Infra.pdb
+C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Infra\obj\Debug\net6.0\ref\TestCadastroVendas.Infra.dll

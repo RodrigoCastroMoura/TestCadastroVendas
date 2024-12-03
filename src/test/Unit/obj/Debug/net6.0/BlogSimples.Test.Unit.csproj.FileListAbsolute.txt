@@ -1,0 +1,7 @@
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Unit\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Unit\obj\Debug\net6.0\BlogSimples.Test.Unit.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Unit\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Unit\obj\Debug\net6.0\BlogSimples.Test.Unit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Unit\obj\Debug\net6.0\BlogSimples.Test.Unit.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Unit\obj\Debug\net6.0\BlogSimples.Test.Unit.AssemblyInfo.cs
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\test\Unit\obj\Debug\net6.0\BlogSimples.Test.Unit.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Api\obj\Debug\net6.0\BlogSimples.Api.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Api\obj\Debug\net6.0\BlogSimples.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Api\obj\Debug\net6.0\BlogSimples.Api.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Api\obj\Debug\net6.0\BlogSimples.Api.AssemblyInfo.cs
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Api\obj\Debug\net6.0\BlogSimples.Api.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Downloads\vertem-dotnet-boilerplate-api\vertem-dotnet-boilerplate-api\src\BlogSimples.Api\obj\Debug\net6.0\BlogSimples.Api.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.Dto\\BlogSimples.Dto.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.CrossCutting\\BlogSimples.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.CrossCutting\\BlogSimples.CrossCutting.csproj",
+        "projectName": "BlogSimples.CrossCutting",
+        "projectPath": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.CrossCutting\\BlogSimples.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\NuGet.Config",
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.Dto\\BlogSimples.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.Dto\\BlogSimples.Dto.csproj",
+        "projectName": "BlogSimples.Dto",
+        "projectPath": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.Dto\\BlogSimples.Dto.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\NuGet.Config",
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.CrossCutting\\BlogSimples.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.CrossCutting\\BlogSimples.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

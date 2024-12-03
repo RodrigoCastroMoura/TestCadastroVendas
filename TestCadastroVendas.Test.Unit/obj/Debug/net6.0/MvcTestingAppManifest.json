@@ -1,0 +1,5 @@
+{
+  "TestCadastroVendas.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Api",
+  "TestCadastroVendas.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Domain",
+  "TestCadastroVendas.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Teste-Blog-Simples\\TestCadastroVendas\\src\\TestCadastroVendas.Infra"
+}

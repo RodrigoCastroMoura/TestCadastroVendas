@@ -1,0 +1,9 @@
+{
+  "BlogSimples.Api": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.Api",
+  "BlogSimples.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.Application",
+  "BlogSimples.CrossCutting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.CrossCutting",
+  "BlogSimples.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.Domain",
+  "BlogSimples.Dto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.Dto",
+  "BlogSimples.Infra": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\src\\BlogSimples.Infra",
+  "BlogSimples.Test.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rodrigo\\Downloads\\vertem-dotnet-boilerplate-api\\vertem-dotnet-boilerplate-api\\test\\Shared"
+}

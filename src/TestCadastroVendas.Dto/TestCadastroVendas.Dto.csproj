@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>true</ImplicitUsings>
+    <Configurations>Debug;Release;Swashbuckle</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.5.2" />
+  </ItemGroup>
+
+</Project>
