@@ -19,8 +19,16 @@ public class Repository<T> : IRepository<T> where T : class
 
     public async Task AddAsync(T entity)
     {
-        await _dbSet.AddAsync(entity);
-        await _context.SaveChangesAsync();
+        try
+        {
+            await _dbSet.AddAsync(entity);
+            await _context.SaveChangesAsync();
+        }
+        catch(Exception ex)
+        {
+
+        }
+       
     }
 
     public async Task<T> GetByIdAsync(int id)
