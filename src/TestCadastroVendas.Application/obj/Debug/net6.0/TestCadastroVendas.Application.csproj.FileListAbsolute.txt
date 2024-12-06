@@ -1,5 +1,0 @@
-C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Application\obj\Debug\net6.0\TestCadastroVendas.Application.csproj.AssemblyReference.cache
-C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Application\obj\Debug\net6.0\TestCadastroVendas.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Application\obj\Debug\net6.0\TestCadastroVendas.Application.AssemblyInfoInputs.cache
-C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Application\obj\Debug\net6.0\TestCadastroVendas.Application.AssemblyInfo.cs
-C:\Teste-Blog-Simples\TestCadastroVendas\src\TestCadastroVendas.Application\obj\Debug\net6.0\TestCadastroVendas.Application.csproj.CoreCompileInputs.cache
